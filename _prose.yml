@@ -53,15 +53,15 @@ prose:
     - /*/run-linux.sh
     - /*/run-mac.command
     - /*/run-windows.bat
-    - /*/*/file-list
     - /*/images
-    - /*/fonts
+    - fonts
     - /*/package.opf
     - /*/*/images
-    - /*/*/fonts
-    - /*/*/package.opf
-    - /*/*/toc.ncx
-    - /*/*/*/file-list
+    - /**/fonts
+    - package.opf
+    - /*/toc.ncx
+    - /*/*/file-list
+    - /*/index.md
   media: "media"
   metadata:
     "":
