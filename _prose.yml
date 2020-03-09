@@ -14,7 +14,7 @@ prose:
     - _config.print-pdf.yml
     - _config.screen-pdf.yml
     - _config.web.yml
-    - _prose.yml
+#     - _prose.yml
     - Gemfile
     - Gemfile.lock
     - CNAME
